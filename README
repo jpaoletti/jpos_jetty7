@@ -5,6 +5,8 @@ Requires the following properties in your jposee properties files (devel.propert
 web.port=Port to be used for http access
 sweb.port=Port to be used for https access
 
+For more information check jetty web site http://www.eclipse.org/jetty/
+
 -------------------------------------------------------------------------------
 
 This program is free software: you can redistribute it and/or modify
