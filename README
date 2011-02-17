@@ -1,5 +1,10 @@
 This project is an embedded version of Jetty 7 ready to use as a jPOS module.
 
+Requires the following properties in your jposee properties files (devel.properties)
+
+web.port=Port to be used for http access
+sweb.port=Port to be used for https access
+
 -------------------------------------------------------------------------------
 
 This program is free software: you can redistribute it and/or modify
